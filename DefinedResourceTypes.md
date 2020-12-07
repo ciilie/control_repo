@@ -1,6 +1,6 @@
-##Defined resource types
+## Defined resource types
 
-###Quest objectives
+### Quest objectives
 
 Manage a group of resources with a defined resource type.
 Understand the difference between a defined resource type and class.
